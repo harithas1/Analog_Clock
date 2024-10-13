@@ -33,6 +33,6 @@ This project consists of two clocks:
 
 
 ## Project links
-- [GitHub Repository](https://github.com/harithas1/Analog_Clock.git)
+- [GitHub Repository](https://github.com/harithas1/Analog_Clock_and_Digital_Clock.git)
 
-- [Live Demo](https://harithas1.github.io/Analog_Clock/) 
+- [Live Demo](https://harithas1.github.io/Analog_Clock_and_Digital_Clock/) 
